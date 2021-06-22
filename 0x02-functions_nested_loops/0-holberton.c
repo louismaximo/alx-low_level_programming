@@ -1,6 +1,7 @@
 #include "holberton.h"
- is it
- ~ * Return: 0 for success
+/**
+ * main - this is it
+ * Return: 0 for success
  */
 int main(void)
 {
@@ -14,3 +15,4 @@ i++;
 _putchar('\n');
 return (0);
 }
+
