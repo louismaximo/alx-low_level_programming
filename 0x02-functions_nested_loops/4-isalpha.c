@@ -1,20 +1,14 @@
-#include <ctype.h>
 #include "holberton.h"
-
 /**
-  * _isalpha - fuck
-  * @c: any char
-  * Return: return 1 for success
-  */
+ * _isalpha - c is fun
+ *@c: a param
+ * Return: value
+ */
 int _isalpha(int c)
 {
-if (isalpha(c))
-{
+if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
 return (1);
-}
 else
-{
 return (0);
-}
 }
 
