@@ -1,31 +1,3 @@
-
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
 #include "holberton.h"
 /**
  * jack_bauer - check the code for ALX school students.
